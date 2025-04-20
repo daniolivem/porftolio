@@ -14,7 +14,7 @@ Para visualizar o portfólio, acesse a página hospedada no GitHub Pages atravé
 Se desejar contribuir, faça um fork do projeto, crie uma branch com suas melhorias e envie um pull request. Toda contribuição é bem-vinda!
 
 #### Licença
-Leia o LICENSE.txt.
+Leia o LICENSE.
 
 #### Autores
 Este projeto foi desenvolvido por Daniely Oliveira. Para sugestões ou colaborações, entre em contato.
